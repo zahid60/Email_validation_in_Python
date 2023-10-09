@@ -1,3 +1,6 @@
 # Email validation in Python
 
-Just completed two projects for email validation in Python: one using string functions and another using regex. 
+<h4>Just completed two projects for email validation in Python: <br>
+<br>
+  - One using string functions and <br>
+  - Another using regex.<h4>
